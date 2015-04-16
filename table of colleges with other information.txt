@@ -1,0 +1,132 @@
+
+1	122	Aarya-Veer, Rajkot	Rajkot	53,000
+2	001	ADIT, Vallabh Vidhyanagar	Vallabh Vidyanagar	93,000
+3	120	Aditya Silver Oak, Ahmedabad	Ahmedabad	56,000
+4	002	Ahmedabad Inst., Ahmedabad	Ahmedabad	62,000
+5	051	Alpha, Kalol, Gandhinagar	Kalol	56,000
+6	108	Amiraj, Ahmedabad	Ahmedabad	67,000
+7	121	Apollo, Ahmedabad	Ahmedabad	54,000
+8	1021	ARC, Vadodara	Vadodara	49,000
+9	093	Arrdekta, Khedbrahma	Khedbrahma	56,000
+10	096	Arun Munchhala, Dhari, Amreli	Dhari	65,000
+11	105	Asia Pacific, Ahmedabad	Ahmedabad	51,000
+12	003	Atmiya, Rajkot	Rajkot	72,000
+13	004	B.H. Gardi, Rajkot	Rajkot	66,000
+14	005	Babaria, Vadodara	Vadodara	85,000
+15	109	Balaji, Junagadh	Junagadh	63,000
+16	006	Bhagwan Mahavir, Surat	Surat	64,000
+17	007	BVM GIA, Vallabh Vidhyanagar	Vallabh Vidyanagar	1,500
+18	008	BVM SFI, Vallabh Vidhyanagar	Vallabh Vidyanagar	94,000
+19	009	C.K.Pithawala, Surat	Surat	70,000
+20	044	C.U.Shah, Wadhwan	Wadhwan	66,000
+21	052	Central Institute, Ahmedabad	Ahmedabad	54,000
+22	010	Chandubhai S Patel, Chanaga	Changa	99,000
+23	053	Chhottubhai, Surat	Surat	70,000
+24	118	D.A. Degree, Mahemdabad	Kheda	53,000
+25	1010	DAIICT, Gandhinagar	Gandhinagar	118,000
+26	054	Darshan, Rajkot	Rajkot	64,000
+27	1002	DDIT GIA, Nadiad	Nadiad	1,500
+28	1005	DDIT SFI, Nadiad	Nadiad	127,000
+29	055	Engineering College, Godhra	Godhra	56,000
+30	084	FETR, Bardoli	Bardoli	56,000
+31	1020	FOE, Waghodia	Waghodia	56,000
+32	059	G.K. Bharad, Rajkot	Rajkot	59,000
+33	011	GCET, Vallabh Vidhyanagar	Vallabh Vidyanagar	105,000
+34	014	GEC, Bharuch	Bharuch	1,500
+35	021	GEC, Bhavnagar	Bhavnagar	1,500
+36	015	GEC, Bhuj	Bhuj	1,500
+37	018	GEC, Dahod	Dahod	1,500
+38	017	GEC, Gandhinagar	Gandhinagar	1,500
+39	060	GEC, Godhra	Godhra	1,500
+40	016	GEC, Modasa	Modasa	1,500
+41	061	GEC, Palanpur	Palanpur	1,500
+42	022	GEC, Patan	Patan	1,500
+43	020	GEC, Rajkot	Rajkot	1,500
+44	023	GEC, Surat	Surat	1,500
+45	019	GEC, Valsad	Valsad	1,500
+46	110	GIDC, Navsari	Jalalpore	60,000
+47	012	GIT, Gandhinagar	Gandhinagar	55,000
+48	062	GITS, Prantij	Prantij	49,000
+49	104	GPERI, Mehsana	Mehsana	75,000
+50	056	Grow More, Himmatnagar	Himmatnagar	61,000
+51	098	Hansaba, Sidhhpur	Patan	65,000
+52	024	Hasmukh Goswami, Ahmedabad	Ahmedabad	50,000
+53	085	HJD, Kera	Bhuj	53,000
+54	1006	IET, Ahmedabad	Ahmedabad	122,000
+55	1011	IITRAM, Ahmedabad	Ahmedabad	50,000
+56	025	Indus, Kalol	Kalol	73,000
+57	101	Ipcowala, Petlad	Petlad	51,000
+58	095	ITMUTC, Waghodia	Waghodia	86,000
+59	107	J.M.Sabva, Botad	Botad	41,000
+60	082	Jivraj Mehta, Anand	Anand	61,000
+61	064	K.J., Vadodara	Vadodara	54,000
+62	027	Kankesvaridevi, Jamnagar	Jamnagar	65,000
+63	026	KIT, Kalol	Kalol	59,000
+64	028	L.D, Ahmedabad	Ahmedabad	1,500
+65	031	L.E, Morbi	Morbi	1,500
+66	089	Labhubhai Trivedi, Rajkot	Rajkot	54,000
+67	086	Laxmi, Valsad	Valsad	63,000
+68	029	LCIT, Visnagar	Visnagar	68,000
+69	030	LDRP, Gandhinagar	Gandhinagar	77,000
+70	100	Leads, Bharuch	Bharuch	61,000
+71	032	LJIT, Ahmedabad	Ahmedabad	65,000
+72	111	Mahavir Swami, Surat	Surat	65,000
+73	057	Marwadi, Rajkot	Rajkot	95,000
+74	116	Marwadi, Rajkot	Rajkot	104,000
+75	097	Marwadi, Rajkot	Rajkot	91,000
+76	063	MBICT for Women, Vallabh Vidyanagar	71,000
+77	065	Merchant, Visnagar	Visnagar	55,000
+78	033	MG Institute, Navasari	Navsari	54,000
+79	1003	MSU, Vadodara	Vadodara	1,500
+80	034	Narnarayan Shastri, Jetalpur	Daskroi	59,000
+81	1007	Navrachana, Vadodara	Vadodara	96,000
+82	117	Neotech, Vadodara	Vadodara	59,000
+83	1014	Nirma, Ahmedabad	Ahmedabad	133,000
+84	035	Noble, Junagadh	Junagadh	53,000
+85	102	OM, Junagadh	Junagadh	59,000
+86	103	OM, Panchmahal	Sahera	41,000
+87	112	Pacific, Surat	Surat	68,000
+88	114	Pandit Nathulal, Surendranagar	Wadhwan	65,000
+89	087	Parul New, Waghodia	Waghodia	66,000
+90	037	Parul Old, Waghodia	Waghodia	66,000
+91	1012	PDPU, Gandhinagar	Gandhinagar	180,000
+92	038	R.K, Rajkot	Rajkot	78,000
+93	1013	Rai University, Dholka	Dholka	57,000
+94	078	S.R.Patel, Unjha	Unjha	68,000
+95	123	S.S. Agrawal, Navsari	Navsari	56,000
+96	066	Sabar, Sabarkantha	Sabarkantha	55,000
+97	045	Sadvidhyamandal, Bharuch	Bharuch	56,000
+98	039	Saffrony, Mehsana	Mehsana	52,000
+99	113	SAL-CE, Ahmedabad	Ahmedabad	65,000
+100	067	SAL-ITER, Ahmedabad	Ahmedabad	56,000
+101	126	SAL-LETI, Ahmedabad	Ahmedabad	54,000
+102	088	Samarth, Himatnagar	Himmatnagar	52,000
+103	036	Sanjaybhai Rajguru, Rajkot	Rajkot	63,000
+104	040	Sankalchand, Visnagar	Visnagar	60,000
+105	124	Sardar Patel College, Bakrol	Anand	53,000
+106	068	Sardar Patel, Piludara, Mehsana	Mehsana	55,000
+107	042	Sarvjanik, Surat	Surat	85,000
+108	091	Satsangi, Mehsana	Mehsana	57,000
+109	075	Shankarsingh Bapu, Gandhinagar	Gandhinagar	68,000
+110	043	Shantilal Shah, Bhavnagar	Bhavnagar	1,500
+111	058	Shree Saraswati, Kadi	Kadi	50,000
+112	099	Shroff Rotary, Valia	Valia	79,000
+113	050	Sigma, Waghodia	Waghodia	49,000
+114	077	Silver Oak, Ahmedabad	Ahmedabad	69,000
+115	049	SNPITRC, Vidhyabharti, Bardoli	Bardoli	58,000
+116	083	Subhash, Junagadh	Junagadh	52,000
+117	041	SVIT, Vasad	Vasad	65,000
+118	076	Swami Atmanand, Surat	Surat	57,000
+119	125	Swaminarayan, Gandhinagar	Gandhinagar	54,000
+120	115	Swaminarayan, Kalol	Kalol	51,000
+121	079	Takshashila, Rajkot	Rajkot	66,000
+122	090	Tatva, Modasa	Modasa	51,000
+123	046	Universal, Kalol	Kalol	46,000
+124	1004	UVPCE, Mehsana	Mehsana	77,000
+125	047	V.V.P, Rajkot	Rajkot	73,000
+126	080	Vadodara Institute, Waghodia	Waghodia	52,000
+127	092	Veerayatan, Mandvi	Mandvi	54,000
+128	081	Venus, Gandhinagar	Gandhinagar	62,000
+129	013	VGEC, Ahmedabad	Ahmedabad	1,500
+130	094	Vidhyadeep, Olpad	Olpad	68,000
+131	048	VIT, Valia	Valia	46,000
